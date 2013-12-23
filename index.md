@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flatwhite
+title: Welcome
 tagline: Software consulting made easy
 ---
 
